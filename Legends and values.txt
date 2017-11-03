@@ -1,0 +1,13 @@
+' Canvas presents a 620 points long X axisto draw graphs
+' Each value should be represented as divided by 620
+' It presents also a 250 points height Y axis
+' Each value should be represented divided by 240 (-10 to not reach the top)
+
+'Temp step : 0.058
+' FC step : 0.91
+' TA step : 0.66
+' Sat step : 0.41
+' Pain step : 0.041
+
+
+  
