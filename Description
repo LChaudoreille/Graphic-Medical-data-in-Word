@@ -1,0 +1,16 @@
+I wanted to create a Care sheet with the only tool I had : Word 2010.
+This standalone doc can be used to draw on a one day basis :
+- Body temperature
+- Oxygen saturation
+- Blood pressure
+- Heart Rate
+- Pain
+- Medication given
+- Volume of oxygen given
+- Respiratory rate
+To ease the reading, I added a scale per measure, dot marks and checkboxes to choose what to draw.
+Contains all the code to represent in a Word's canvas :
+- data lines,
+- data columns,
+- data floating columns,
+- data points.
